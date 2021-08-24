@@ -92,6 +92,7 @@ function Psychrometrics() {
 
   // Systems of units (IP or SI)
   var PSYCHROLIB_UNITS = undefined;
+  var PSYCHROLIB_TOLERANCE = undefined;
 
   this.IP = 1;
   this.SI = 2;
